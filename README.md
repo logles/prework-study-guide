@@ -41,4 +41,4 @@ Reach out to Lydia Ogles
 
 ## Tests
 
-Checked console for errors
+Checked console for error
